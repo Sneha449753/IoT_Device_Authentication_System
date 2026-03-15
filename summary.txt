@@ -1,0 +1,3 @@
+Total Devices Checked: 10
+Allowed Devices: 3
+Blocked Devices: 7
